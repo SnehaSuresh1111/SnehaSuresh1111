@@ -6,7 +6,7 @@ I'm a product marketer at Esri, a Cornell MBA, and a former software engineer. H
 
 ### 🔨 Things I've been building
 
-- **Little Glow:** A candle-inspired Pomodoro timer, built with Replit.
+- **Little Glow:** A candle-inspired pomodoro timer, built with Replit.
 - **Onward:** A daily tracker for exercise, hydration, and mindfulness, built with Replit.
 - **Football app:** A football match explorer built with ArcGIS Maps SDK for JavaScript and Lovable.
 
